@@ -11,7 +11,7 @@ Features:
 Technologies used:
 - Python
 - OpenCV for object detection
-- Streamlit for the web application. interface
+- Streamlit for the web application interface
 
 Getting Started:
 1. Clone the repository: git clone https://github.com/your-username/your-repo.git
