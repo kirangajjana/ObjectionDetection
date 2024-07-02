@@ -2,7 +2,7 @@ Object Detection with Streamlit
 
 This project showcases object detection using Haar cascades in a Streamlit application. It allows users to upload an image and detect objects of different types, such as cars, humans, and buses.
 
-Features:
+Features:-
 - Select the object type for detection from a sidebar dropdown menu.
 - Upload an image and perform object detection based on the selected object type.
 - Display the original image with detected objects highlighted.
