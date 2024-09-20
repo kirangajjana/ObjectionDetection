@@ -1,7 +1,7 @@
 import cv2
 import streamlit as st
 import numpy as np
-
+# object detection
 def detect_objects(image):
     # Load pre-trained object detection model (e.g., using Haar cascades)
     # Replace with the appropriate path to your cascade file
